@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main() {
+int main() 
+{   printf("RA2211042010042\n");
     int number, i, sum = 0;//i is a counter
 
     printf("Enter a positive integer: ");
