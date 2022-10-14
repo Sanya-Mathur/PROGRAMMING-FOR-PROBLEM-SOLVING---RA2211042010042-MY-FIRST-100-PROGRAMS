@@ -1,10 +1,12 @@
 #include <stdio.h>
 main() 
-{ #i is counter
+{
+   printf("RA2211042010042\n");
+  //i is counter
   int i = 1;
   while(i <= 10);
   {
-    printf("\n%d", i);
+    printf("%d", i);
     i++;
   }
 } 
