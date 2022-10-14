@@ -1,6 +1,6 @@
 #include <stdio.h>
 main() 
-{
+{printf("RA2211042010042\n");
   int i, len = 0;
   char  s[20];
   printf("Enter the string: ");
