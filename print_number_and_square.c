@@ -1,6 +1,7 @@
 #include <stdio.h>
 main() 
-{ #i is counter
+{  printf("RA2211042010042\n");
+ //i is counter
   int i;
   printf("Number");
   printf("  Square");
