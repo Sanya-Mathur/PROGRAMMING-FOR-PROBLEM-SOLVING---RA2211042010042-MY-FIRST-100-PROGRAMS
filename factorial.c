@@ -8,7 +8,7 @@ void main()
 for(i=1;i<=number;i++)
 {
   factorial=factorial*i;
-  printf(i);
+  printf("%d",i);
 }
      printf("Factorial of %d is %d", number,factorial);
 }
