@@ -1,5 +1,7 @@
 #include <stdio.h>
-int main() {
+int main() 
+{
+printf("RA2211042010042\n");
   int n, i;
   printf("Enter an integer: ");
   scanf("%d", &n);
@@ -10,10 +12,7 @@ int main() {
 }
 
 
-
-
-
-
+ 
 
 
 
